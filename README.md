@@ -1,4 +1,4 @@
-# MyWheatherApp
+# MyWeatherApp
 How to use?
 
 Just download the zip file.
